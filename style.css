@@ -16,6 +16,7 @@ td {
     padding: 5px;
 }
 
+/* help to center the table which will be done in .maininfo class */
 table {
     width: 100%;
 }
