@@ -1,4 +1,28 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 600px;
+    padding: 20px;
+    border-radius:25px;
+    /*centering the  main div table*/
+    margin-left: auto;
+    margin-right: auto;
+}
 
+/* add some padding for each cell in the table*/
+td {
+    padding: 5px;
+}
 
+.maininfo{
+    width: 400px;
+    /*center the table*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.highlight{
+    background-color: yellow;
+}
