@@ -16,6 +16,10 @@ td {
     padding: 5px;
 }
 
+table {
+    width: 100%;
+}
+
 .maininfo{
     width: 400px;
     /*center the table*/
